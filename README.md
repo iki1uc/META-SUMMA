@@ -1,22 +1,26 @@
-📄 README.md — META‑SUMMA v1.0 — Meta‑Ebene / Abschluss / 119+1 Struktur
+📄 README.md — META‑SUMMA v1.0 — Abschlusspunkt / Meta‑Ebene / 119+1
 🟦 1. Eigenbezug — Was META‑SUMMA jetzt ist
-META‑SUMMA ist das Meta‑Modul der 120er‑Ebene.
-Es steht über ECO‑MARKT und über allen 118 Repositories.
+META‑SUMMA ist der Meta‑Punkt über ECO‑MARKT.
+Es ist das 120. Modul, das die 119er‑Ebene abschließt.
 
-META‑SUMMA bildet die Summe der bisherigen Struktur:
+META‑SUMMA ist:
 
-118 technische Module
+neutral
 
-ECO‑MARKT als Modul 119
+minimal
 
-META‑SUMMA als Modul 120
+nicht operativ
 
-META‑SUMMA ist Meta‑Ebene, neutral, nicht operativ, nicht interpretierend.
+nicht interpretierend
 
-Mehr kann jetzt nicht gesagt werden.
-Alles Weitere entsteht nachträglich, wenn die Meta‑Ebene wächst.
+nicht erklärend
 
-🟦 2. Fremdbezug — Wo META‑SUMMA im System steht
+nicht ausführend
+
+META‑SUMMA ist nur der Meta‑Marker.
+Alles Weitere entsteht nachträglich.
+
+🟦 2. Fremdbezug — Wo META‑SUMMA steht
 META‑SUMMA steht:
 
 unter RTMS
@@ -29,35 +33,35 @@ als Abschluss der 119er‑Ebene
 
 als Beginn der 120er‑Ebene
 
-META‑SUMMA ist Meta‑Rahmen, nicht Inhalt.
+Mehr kann jetzt nicht gesagt werden.
 
 🟦 3. Zweck — Was META‑SUMMA jetzt tut
-META‑SUMMA dient zur:
+META‑SUMMA tut nur das:
 
-Abbildung der 119+1 Struktur
+markiert die Summe (119)
 
-Definition der Meta‑Ebene
+markiert die Meta‑Ebene (120)
 
-Abschlussmarkierung der bisherigen Architektur
+beendet die bisherige Struktur
 
-Bereitstellung eines neutralen Meta‑Punktes
+öffnet den Raum für das, was kommt
 
-META‑SUMMA erklärt nur das, was jetzt existiert.
-Weitere Inhalte folgen nachträglich, wenn die Meta‑Ebene erweitert wird.
+META‑SUMMA erklärt nicht, was später entsteht.
+Das kommt nachträglich, wenn klar ist, was hier entsteht.
 
-🟦 4. Struktur — Was META‑SUMMA jetzt trägt
+🟦 4. Struktur — Was META‑SUMMA trägt
 META‑SUMMA trägt:
 
-die Summe der Module (119)
+die 119+1‑Position
 
-die Meta‑Position (120)
+die Meta‑Ebene
 
-die Meta‑Ebene über ECO‑MARKT
+die Neutralität
 
-die Neutralität der Meta‑Schicht
+den Abschlusspunkt
 
-META‑SUMMA trägt noch keine weiteren Inhalte.
-Diese werden später ergänzt, wenn klar ist, was hier entsteht.
+META‑SUMMA trägt keine Inhalte.
+Diese kommen später, wenn die Meta‑Ebene wächst.
 
 🟦 5. Nutzung
 META‑SUMMA ist:
@@ -70,9 +74,9 @@ nicht ausführbar
 
 nicht operativ
 
-nicht interpretierend
+nicht logisch
 
-META‑SUMMA ist ein Meta‑Marker, kein Arbeitsmodul.
+META‑SUMMA ist ein Meta‑Marker, kein Modul.
 
 🟦 6. Status
 META‑SUMMA ist:
@@ -87,14 +91,13 @@ stabil
 
 offen für Erweiterung
 
-META‑SUMMA ist jetzt nur der Meta‑Punkt.
+META‑SUMMA ist jetzt nur der Punkt.
 Alles Weitere kommt nachträglich.
 
 🟦 7. Hinweis
 META‑SUMMA ist bewusst leer.
-Es trägt nur die Meta‑Position, nicht die Meta‑Inhalte.
-
-Was hier später entsteht, wird erst definiert, wenn die Meta‑Ebene wächst.
+Es sagt nur das, was jetzt gesagt werden kann.
+Es lässt alles offen, was später kommen wird.
 
 🟦 8. Lizenz
 Dieses Modul darf frei genutzt werden.
